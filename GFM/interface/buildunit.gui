@@ -620,11 +620,13 @@ guiTypes = {
 			position = { x= 338 y =31}
 			quadTextureSprite ="GFX_unit_folder_army_9_tank"
 			shortcut = "-"
+		}
 		guiButtonType = {
 			name = "unit_folder_19"
 			position = { x= 371 y =31}
 			quadTextureSprite ="GFX_unit_folder_army_10_plane"
 			shortcut = "="
+		}
 		
 		# navy.
 		
@@ -693,6 +695,7 @@ guiTypes = {
 			position = { x= 375 y =31}
 			quadTextureSprite ="GFX_unit_folder_navy_8_dreadnought"
 			shortcut = "-"
+		}
 		
 		listboxType = 	{
 			name ="list"
